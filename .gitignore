@@ -1,0 +1,19 @@
+# OS metafiles
+.DS_Store
+
+# Build results
+Debug/
+Release/
+x64/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual C++ cache files
+ipch/
+*.opensdf
+*.sdf
