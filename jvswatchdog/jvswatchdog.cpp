@@ -5,7 +5,7 @@
 
 
 
-#define VERSION_DESCRIPTION "2023.03.02.00 \"Akita\""
+#define VERSION_DESCRIPTION "2023.03.05.00 \"Akita\""
 
 #ifdef _WIN64
 #define ARCHITECTURE_DESCRIPTION "x64"
