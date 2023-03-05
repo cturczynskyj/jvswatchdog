@@ -1,6 +1,6 @@
 # JVSWatchdog
 
-This repository contains source code for a Windows console application, `jvswatchdog.exe`, which pings COM2 once per minutes to reset the Taito Type X3 DMAC's watchdog timer, keeping the DMAC from rebotting the Type X3.
+This repository contains source code for a Windows console application, `jvswatchdog.exe`, which pings COM2 once per minutes to reset the Taito Type X3 DMAC's watchdog timer, keeping the DMAC from rebooting the Type X3.
 
 ---
 
